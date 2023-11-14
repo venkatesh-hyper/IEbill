@@ -9,7 +9,7 @@ servelet based project
 
 
 requirements 
-   1 netbeans ver 17
-   2 jdk ver 17
-   3 glassfish server ver 10
+    netbeans ver 17,
+    jdk ver 17,
+    glassfish server ver 10.
     

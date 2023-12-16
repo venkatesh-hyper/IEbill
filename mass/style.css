@@ -1,0 +1,65 @@
+#gred{
+    background-image: linear-gradient(to right, rgb(255, 255, 255) ,rgb(100, 203, 226));
+}
+
+
+.topnav {
+background-color: #333;
+overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+background-color: #c91515;
+color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+background-color: rgb(29, 24, 177);
+color: white;
+}
+.button {
+          border: none;
+          color: white;
+          padding: 16px 32px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 4px 2px;
+          transition-duration: 0.4s;
+          cursor: pointer;
+        }
+        
+        .button1 {
+          background-color: white; 
+          color: black; 
+          border: 2px solid #04AA6D;
+        }
+        
+        .button1:hover {
+          background-color: #04AA6D;
+          color: white;
+        }
+        
+        .button2 {
+          background-color: white; 
+          color: black; 
+          border: 2px solid #008CBA;
+        }
+        
+        .button2:hover {
+          background-color: #008CBA;
+          color: white;
+        }
